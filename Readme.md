@@ -127,7 +127,7 @@ In the `config.py` file you can find all the paths and parameters you can change
 ### Results
 
 If you want to download our model weights please compile [this form](
-https://docs.google.com/forms/d/e/1FAIpQLScDs_0egdPDwWVe4Ed17bbdsw57oBtukDz0oUJ91KEUBc3-1w/viewform?usp=pp_url
+https://docs.google.com/forms/d/e/1FAIpQLSdP3VSBI87P_-1vbYIo2Uq1E5d_VyRHWAik7Epc92YuL3k12w/viewform?usp=share_link
 ).
 
 <p align="center">
