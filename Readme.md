@@ -126,9 +126,7 @@ In the `config.py` file you can find all the paths and parameters you can change
 
 ### Results
 
-If you want to download our model weights please compile [this form](
-https://docs.google.com/forms/d/e/1FAIpQLSdP3VSBI87P_-1vbYIo2Uq1E5d_VyRHWAik7Epc92YuL3k12w/viewform?usp=share_link
-).
+Model weights can be downloaded [here](https://drive.google.com/file/d/1cBKy97mdGf_EwdBNGzcHTFnl711wBxUH/view?usp=share_link).
 
 <p align="center">
 <img src="figures/results.png" width="auto" height="auto"/>
